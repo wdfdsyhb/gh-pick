@@ -1,5 +1,7 @@
 # gh-pick
 
+[![CI](https://github.com/wdfdsyhb/gh-pick/actions/workflows/tests.yml/badge.svg)](https://github.com/wdfdsyhb/gh-pick/actions/workflows/tests.yml)
+
 **Score GitHub repos for maintenance & health before you depend on them.**
 
 选型之前给仓库打个分：还在维护吗、社区有没有人、issue 堆没堆、license 干不干净。0-100 分，一眼看出"这个坑值不值得跳"。
